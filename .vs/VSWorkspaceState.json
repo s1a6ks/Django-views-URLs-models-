@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Django.Models-main",
+    "\\Django.Models-main\\News",
+    "\\Django.Models-main\\News\\News",
+    "\\Django.Models-main\\News\\polls",
+    "\\Django.Models-main\\News\\polls\\templates"
+  ],
+  "SelectedNode": "\\Django.Models-main\\News\\News\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
